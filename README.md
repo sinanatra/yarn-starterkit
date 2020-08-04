@@ -16,4 +16,4 @@ Remove the temporary local repository you created earlier:
 
 `rm -rf yarn-starterkit.git`
 
-Use `yarn` to install the dependencies and launch `yarn watch` to launch the server
+Then clone the new repository launch `yarn` to install the dependencies and `yarn watch` to launch the server
