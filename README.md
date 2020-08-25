@@ -1,6 +1,6 @@
 ### Setup
 
-Create a bare clone of the repository:
+This repo is my own yarn starterkit, to start create a bare clone of the repository:
 
 `git clone --bare git@github.com:sinanatra/yarn-starterkit.git `
 
