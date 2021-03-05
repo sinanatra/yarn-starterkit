@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "file-loader": "^6.0.0"
+    "file-loader": "^6.0.0",
+    "jquery": "^3.6.0"
   },
   "scripts": {
     "watch": "webpack-dev-server --mode development --watch",
