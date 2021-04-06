@@ -23,9 +23,9 @@ rm -rf ./src/scss/.git
 
 3. Install dependencies with yarn
 ```
-yarn
+yarn install
 ```
 
-4. You just have to type `yarn watch` now.
+4. Type yarn watch now, open http://localhost:3000 and to start coding. The browser will reload at every saved change.
 
 5. At the end of your coding process, you can run the `yarn build` command.
