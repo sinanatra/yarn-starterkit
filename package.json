@@ -1,8 +1,15 @@
 {
-  "name": "",
+  "name": "html-starterkit",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "Starterkit for HTML project",
+  "author": "sinanatra",
   "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/sinanatra",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinanatra/html-starterkit.git"
+  },
   "dependencies": {
     "file-loader": "^6.0.0",
     "jquery": "^3.6.0"
