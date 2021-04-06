@@ -1,4 +1,4 @@
-import './main.css'
+import './scss/application.scss'
 
 import jquery from "jquery";
 
